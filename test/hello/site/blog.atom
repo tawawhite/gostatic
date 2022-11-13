@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0">
+  <id>https://example.com/</id>
+  <title>Example Site</title>
+  
+  <updated>2020-12-12T00:00:00Z</updated>
+  
+  <author><name>Your Name</name></author>
+  <link href="https://example.com/" rel="alternate"></link>
+  <generator uri="https://github.com/piranha/gostatic">gostatic</generator>
+
+
+
+<entry>
+  <id>blog/first_copy_2/</id>
+  <author><name>Your Name</name></author>
+  <title type="html">First Post 2</title>
+  <published>2020-12-12T00:00:00Z</published>
+  
+  <category term="blog"></category>
+  
+  <link href="https://example.com//blog/first_copy_2/" rel="alternate"></link>
+  <content type="html">
+    
+    
+      
+  &lt;p&gt;My first post with &lt;a href=&#34;https://github.com/piranha/gostatic&#34;&gt;gostatic&lt;/a&gt;.&lt;/p&gt;
+
+  
+    
+  </content>
+</entry>
+
+<entry>
+  <id>blog/first_copy_10/</id>
+  <author><name>Your Name</name></author>
+  <title type="html">First Post 9</title>
+  <published>2012-12-13T00:00:00Z</published>
+  
+  <category term="blog2"></category>
+  
+  <link href="https://example.com//blog/first_copy_10/" rel="alternate"></link>
+  <content type="html">
+    
+    
+      
+  &lt;p&gt;My first post with &lt;a href=&#34;https://github.com/piranha/gostatic&#34;&gt;gostatic&lt;/a&gt;.&lt;/p&gt;
+
+  
+    
+  </content>
+</entry>
+
+<entry>
+  <id>blog/first_copy_9/</id>
+  <author><name>Your Name</name></author>
+  <title type="html">First Post 9</title>
+  <published>2012-12-12T00:00:00Z</published>
+  
+  <category term="blog"></category>
+  
+  <link href="https://example.com//blog/first_copy_9/" rel="alternate"></link>
+  <content type="html">
+    
+    
+      
+  &lt;p&gt;My first post with &lt;a href=&#34;https://github.com/piranha/gostatic&#34;&gt;gostatic&lt;/a&gt;.&lt;/p&gt;
+
+  
+    
+  </content>
+</entry>
+
+<entry>
+  <id>blog/first_copy_8/</id>
+  <author><name>Your Name</name></author>
+  <title type="html">First Post 8</title>
+  <published>2012-12-12T00:00:00Z</published>
+  
+  <category term="blog"></category>
+  
+  <link href="https://example.com//blog/first_copy_8/" rel="alternate"></link>
+  <content type="html">
+    
+    
+      
+  &lt;p&gt;My first post with &lt;a href=&#34;https://github.com/piranha/gostatic&#34;&gt;gostatic&lt;/a&gt;.&lt;/p&gt;
+
+  
+    
+  </content>
+</entry>
+
+<entry>
+  <id>blog/first_copy_7/</id>
+  <author><name>Your Name</name></author>
+  <title type="html">First Post 7</title>
+  <published>2012-12-12T00:00:00Z</published>
+  
+  <category term="blog"></category>
+  
+  <link href="https://example.com//blog/first_copy_7/" rel="alternate"></link>
+  <content type="html">
+    
+    
+      
+  &lt;p&gt;My first post with &lt;a href=&#34;https://github.com/piranha/gostatic&#34;&gt;gostatic&lt;/a&gt;.&lt;/p&gt;
+
+  
+    
+  </content>
+</entry>
+
+
+</feed>
